@@ -1,23 +1,7 @@
 [
   {
-    "name": "ScarAway Scar Gel",
-    "description": "Scar gel that helps reduce scar appearance.",
-    "affiliate_link": "https://example.com/affiliate/scaraway",
-      "image": "https://via.placeholder.com/400?text=ScarAway+Gel",
-    "tags": ["scar", "skincare", "gel"]
-  },
-  {
-    "name": "Amazing Gadget",
-    "description": "Innovative gadget with must-have features.",
-    "affiliate_link": "https://example.com/affiliate/gadget",
-    "image": "https://via.placeholder.com/400?text=Gadget",
-    "tags": ["gadget", "tech"]
-  },
-  {
-    "name": "Cool Widget",
-    "description": "Stylish widget that blends design and utility.",
-    "affiliate_link": "https://example.com/affiliate/widget",
-    "image": "https://via.placeholder.com/400?text=Widget",
-    "tags": ["widget", "tool"]
+    "product_name": "ScarAway Silicone Scar Gel",
+    "description": "Medical-grade silicone for scars",
+    "affiliate_link": "https://amazon.com/dp/B001AJ5H0M?tag=myID&utm_source=chatgpt.com"
   }
 ]
