@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://example.com/index.html</loc>
+    <loc>https://yourdomain.github.io/index.html</loc>
   </url>
   <url>
-    <loc>https://example.com/products/scaraway-scar-gel.html</loc>
+    <loc>https://yourdomain.github.io/products/scaraway-gel.html</loc>
   </url>
   <url>
-    <loc>https://example.com/products/product2.html</loc>
-  </url>
-  <url>
-    <loc>https://example.com/products/product3.html</loc>
+    <loc>https://yourdomain.github.io/compare/scar-gels.html</loc>
   </url>
 </urlset>
