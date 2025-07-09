@@ -5,5 +5,19 @@
     "affiliate_link": "https://example.com/affiliate/scaraway",
       "image": "https://via.placeholder.com/400?text=ScarAway+Gel",
     "tags": ["scar", "skincare", "gel"]
+  },
+  {
+    "name": "Amazing Gadget",
+    "description": "Innovative gadget with must-have features.",
+    "affiliate_link": "https://example.com/affiliate/gadget",
+    "image": "https://via.placeholder.com/400?text=Gadget",
+    "tags": ["gadget", "tech"]
+  },
+  {
+    "name": "Cool Widget",
+    "description": "Stylish widget that blends design and utility.",
+    "affiliate_link": "https://example.com/affiliate/widget",
+    "image": "https://via.placeholder.com/400?text=Widget",
+    "tags": ["widget", "tool"]
   }
 ]

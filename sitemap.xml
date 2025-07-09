@@ -6,4 +6,10 @@
   <url>
     <loc>https://example.com/products/scaraway-scar-gel.html</loc>
   </url>
+  <url>
+    <loc>https://example.com/products/product2.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/products/product3.html</loc>
+  </url>
 </urlset>
